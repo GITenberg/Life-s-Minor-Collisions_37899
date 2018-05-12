@@ -1,0 +1,43 @@
+_repo: Life-s-Minor-Collisions_37899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Warner, Frances Lester
+    aliases:
+    - Lester Warner, Frances
+    - Hersey, Frances
+    birthdate: 1888
+    gutenberg_agent_id: '37486'
+    url: http://www.gutenberg.org/2009/agents/37486
+  - agent_name: Warner, Gertrude Chandler
+    alias: Warner, Gertrude
+    birthdate: 1890
+    deathdate: 1979
+    gutenberg_agent_id: '41863'
+    url: http://www.gutenberg.org/2009/agents/41863
+description: Title; Contents; Why Minor?; Love's Minor Frictions; Boston Streets;
+  To Horse; Wheels and How They Go Round; The Will to Boss; More to it than You'd
+  Think; Trio Impetuoso; The Return of A, B, C; Understanding the Healthy; Carving
+  at Table; The Feeling of Irritation.
+gutenberg_issued: '2011-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life'
+- !lcc 'PS'
+- !lcsh 'American essays -- 20th century'
+- !lcsh 'Conduct of life'
+tableOfContents: Love's minor frictions -- Boston streets -- To horse -- Wheels and
+  how they go round -- The will to boss -- More to it than you'd think -- Trio impetuoso
+  -- The return of A, B, C -- Understanding the healthy -- Carving at table -- The
+  feeling of irritation.
+title: Life's Minor Collisions
+url: http://www.gutenberg.org/ebooks/37899
